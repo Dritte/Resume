@@ -43,8 +43,7 @@
 
                 
 
-\section{EXPERIENCE} {\sl Akamai Platform Infrastructure Engineering Intern} \hfill June 2012 -  August 2012 \\
-                    {\sl Cambridge, MA}
+\section{EXPERIENCE} {\sl Akamai Platform Infrastructure Engineering Intern, Cambridge, MA} \hfill June 2012 -  August 2012 
                  \begin{itemize}  \itemsep -2pt %reduce space between items
                          \item  Designed, implemented, and completed a currently deployed internal tool for managing cached SQL tables
                          \item Learned SQL, JavaScript, HTML, and CSS for use in tool development
