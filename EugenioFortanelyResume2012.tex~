@@ -1,8 +1,9 @@
 % LaTeX resume using res.cls
 \documentclass[margin]{res}
-%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
 %\usepackage{newcent}   % uses new century schoolbook postscript font 
 \setlength{\textwidth}{5.1in} % set width of text portion
+%\setlength{\topmargin}{-0.6in}  % Start text higher on the page 
 
 \begin{document}
 
@@ -58,25 +59,24 @@
                                 \item  Interned at a startup developing quad-core ARM Cortex-A9 server chip
                                 \item Developed and executed validation software for the LAVA test environment
                                 \item Validation software was developed in Python in a Linux environment
-                                \item Analyzed validation software failures, identified root-cause and resolved issues
                  \end{itemize} 
  
-\section{SKILLS} {\sl Programming Languages:} Java, Python, SQL, Javascript, Scheme
-                 \\
+\section{SKILLS} {\sl Programming Languages:} Java, Python, SQL, Javascript, Scheme \\
                  {\sl Markup Languages:} \LaTeX, HTML, CSS \\
                 {\sl Operating Systems:} Linux, Windows
  
  
-\section{AWARDS} Recipient, MIT Eugene and Margaret McDermott Scholarship, 2010, 2011\\ 
+\section{AWARDS} Eagle Scout, Troop 157, Boy Scouts of America, 2010\\
+        Recipient, MIT Eugene and Margaret McDermott Scholarship, 2010, 2011\\ 
         PSAT/NMQT Semi-Finalist, 2009 \\
         Recipient, AP Scholar with Distinction, 2009 \\ 
         Recipient, National Hispanic Scholar, 2010 \\
         State Finalist, German Sight Reading, 2010 \\
 
 \section{ACTIVITIES}             
-        Executive Committee Random Hall Member-at-Large \\
+        Executive Committee of Random Hall Member-at-Large \\
         MIT Assassin's Guild \\
-        University Interscholastic League: Scholastic and State German Competitions in
+        University Interscholastic League: Scholastic and State Competitions in
         Computer Science, Number Sense, Physics, Current Events, Chemistry, and German
  
 
