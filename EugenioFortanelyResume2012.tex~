@@ -38,12 +38,13 @@
                 {\sl Pflugerville High School} \hfill Graduated May 2010
                  \begin{itemize}  \itemsep -2pt %reduce space between items
                          \item Salutatorian in class of 535 students
-                         \item 16 AP Exams including Computer Science AB: 5, Calculus BC: 5, Electricity \& Magnetism: 5
+                         \item 16 AP Exams including Computer Science AB: 5, Calculus BC: 5, E\&M: 5
                 \end{itemize}
 
                 
 
-\section{EXPERIENCE} {\sl Akamai Platform Infrastructure Engineering Intern, Cambridge, MA} \hfill June 2012 -  August 2012 
+\section{EXPERIENCE} {\sl Akamai Platform Infrastructure Engineering Intern} \hfill June 2012 -  August 2012 \\
+                    {\sl Cambridge, MA}
                  \begin{itemize}  \itemsep -2pt %reduce space between items
                          \item  Designed, implemented, and completed a currently deployed internal tool for managing cached SQL tables
                          \item Learned SQL, JavaScript, HTML, and CSS for use in tool development
@@ -51,7 +52,8 @@
                          \item Studied database theory in order to normalize custom database schema
                 \end{itemize}
 
-                {\sl Calxeda Engineering Intern, Austin, TX} \hfill            May 2011 - August 2011 
+                {\sl Calxeda Engineering Intern} \hfill            May 2011 - August 2011 \\
+                {\sl Austin, TX}
                  \begin{itemize}  \itemsep -2pt %reduce space between items
                                 \item  Interned at a startup developing quad-core ARM Cortex-A9 server chip
                                 \item Developed and executed validation software for the LAVA test environment
@@ -70,10 +72,10 @@
         Recipient, AP Scholar with Distinction, 2009 \\ 
         Recipient, National Hispanic Scholar, 2010 \\
         State Finalist, German Sight Reading, 2010 \\
-        State Finalist, German Reading Comprehension, 2007 
 
 \section{ACTIVITIES}             
-        MIT Assassin's Guild\\
+        Executive Committee Random Hall Member-at-Large \\
+        MIT Assassin's Guild \\
         University Interscholastic League: Scholastic and State German Competitions in
         Computer Science, Number Sense, Physics, Current Events, Chemistry, and German
  
