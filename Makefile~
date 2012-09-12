@@ -1,0 +1,3 @@
+all: pdflatex EugenioFortanelyResume2012.tex 
+	end
+

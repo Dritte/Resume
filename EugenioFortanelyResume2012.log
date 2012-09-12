@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.8)  11 SEP 2012 00:27
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.8)  11 SEP 2012 21:04
 entering extended mode
  %&-line parsing enabled.
 **EugenioFortanelyResume2012.tex
@@ -74,7 +74,7 @@ File: omsphv.fd
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
 
-Underfull \hbox (badness 10000) in paragraph at lines 69--75
+Underfull \hbox (badness 10000) in paragraph at lines 72--74
 
  []
 
@@ -94,7 +94,7 @@ Here is how much of TeX's memory you used:
 nts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb
 ></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texm
 f-texlive/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on EugenioFortanelyResume2012.pdf (1 page, 39192 bytes).
+Output written on EugenioFortanelyResume2012.pdf (1 page, 39194 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
