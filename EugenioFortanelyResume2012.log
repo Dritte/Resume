@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2012.5.8)  18 SEP 2012 13:47
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=latex 2012.12.5)  6 DEC 2012 22:38
 entering extended mode
  %&-line parsing enabled.
 **EugenioFortanelyResume2012.tex
 (./EugenioFortanelyResume2012.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
-yphenation, loaded.
+yphenation, bulgarian, ukrainian, russian, loaded.
 (./res.cls
 Document Style `res' <26 Sep 89>.
 Document Class: res 2000/05/19 v1.4b Resume class
@@ -73,25 +73,20 @@ File: omsphv.fd
 )
 LaTeX Font Info:    Font shape `OMS/phv/m/n' in size <10> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 29.
- [1
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 67.
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] ) 
+(/usr/share/texmf-texlive/tex/latex/psnfss/ot1pcr.fd
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+) [1
+
+] ) 
 Here is how much of TeX's memory you used:
- 375 strings out of 495061
- 4344 string characters out of 1182622
- 52442 words of memory out of 3000000
- 3620 multiletter control sequences out of 15000+50000
- 12918 words of font info for 25 fonts, out of 3000000 for 9000
- 28 hyphenation exceptions out of 8191
+ 403 strings out of 494819
+ 4786 string characters out of 1178689
+ 52783 words of memory out of 3000000
+ 3657 multiletter control sequences out of 15000+50000
+ 7415 words of font info for 21 fonts, out of 3000000 for 9000
+ 212 hyphenation exceptions out of 8191
  29i,8n,19p,238b,149s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive
-/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texlive/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb
-></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texm
-f-texlive/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on EugenioFortanelyResume2012.pdf (1 page, 39190 bytes).
-PDF statistics:
- 23 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
+Output written on EugenioFortanelyResume2012.dvi (1 page, 3700 bytes).
