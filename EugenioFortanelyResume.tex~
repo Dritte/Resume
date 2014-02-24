@@ -1,0 +1,108 @@
+% LaTeX resume using res.cls
+\documentclass[margin]{res}
+\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent} % uses new century schoolbook postscript font 
+\setlength{\textwidth}{5.1in} % set width of text portion
+%\setlength{\topmargin}{-0.6in} % Start text higher on the page 
+
+\begin{document}
+
+% Center the name over the entire width of resume:
+ \moveleft.5\hoffset\centerline{\large\bf Eugenio ``Bobby'' Fortanely}
+% Draw a horizontal line the whole width of resume:
+ \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+% address begins here
+% Again, the address lines must be centered over entire width of resume:
+ \moveleft.5\hoffset\centerline{290 Massachusetts Avenue}
+ \moveleft.5\hoffset\centerline{Cambridge, MA 02139}
+ \moveleft.5\hoffset\centerline{512.733.4704}
+ \moveleft.5\hoffset\centerline{erf@mit.edu}
+
+
+\begin{resume}
+
+\section{EDUCATION} {\sl \bf Massachusetts Institute of Technology} 
+                    \hfill Expected Graduation 6/2014
+                    \begin{itemize} \itemsep -2pt %reduce space between items
+                        \item Candidate for Bachelor of Science in Computer Science
+                        and Engineering,\\ Minor in Math
+                        % \sl will be bold italic in New Century Schoolbook (or
+                        % any postscript font) and just slanted in
+                        %	Computer Modern (default) font
+                        \item {\sl Major GPA}: 4.5/5.0  \quad {\sl Overall GPA}: 4.5/5.0 
+                        \item {\sl Coursework includes}:
+                          Software Construction,
+                          Performance Engineering of Software Systems, 
+                          Computer System Engineering, 
+                          Advanced Data Structures,
+                          Advanced Algorithms,
+                          Design and Analysis of Algorithms, 
+                          Introduction to Algorithms,
+                          Cryptography and Cryptanalysis, 
+                          Computation Structures,
+                          Artificial Intelligence, 
+                          Introduction to Machine Learning, 
+                          Automata/Computability/Complexity
+                    \end{itemize}
+
+                    {\sl \bf Pflugerville High School} \hfill Graduated 5/2010
+                    \begin{itemize} \itemsep -2pt %reduce space between items
+                         \item Salutatorian in class of 535 students
+                         \item 16 AP Exams including Computer Science AB: 5, 
+                               Calculus BC: 5, E\&M: 5
+                    \end{itemize}
+
+\section{EXPERIENCE} 
+                    {\sl{\bf Google} Site Reliability Engineering Intern} 
+                    \hfill 6/2013 -- 8/2013 \\
+                    {\sl  New York, NY}
+                    \begin{itemize} \itemsep -2pt %reduce space between items
+                        \setlength{\topsep}{0pt}
+                         \item Implemented and load-tested a SQLite-based
+                           caching mechanism for an existing internal service
+                    \end{itemize} 
+                    \vspace{-4.5mm} {\sl (Python, SQL)}
+
+                    {\sl {\bf Akamai} 
+                      Platform Infrastructure Engineering Intern} 
+                    \hfill 6/2012 -- 8/2012 \\
+                    {\sl Cambridge, MA}
+                    \begin{itemize} \itemsep -2pt %reduce space between items
+                         \item Designed, implemented, and completed a 
+                           currently deployed internal tool for managing cached 
+                           SQL tables
+                         \item Created Apache Server to host a tool utilizing 
+                           mod\_python module 
+                    \end{itemize}
+                    \vspace{-4.5mm} {\sl (Python, SQL)}
+
+                    {\sl {\bf Calxeda} Engineering Intern} 
+                    \hfill 5/2011 -- 8/2011 \\
+                    {\sl Austin, TX}
+                    \begin{itemize} \itemsep -2pt %reduce space between items
+                          \item Developed validation software for quad-core ARM 
+                            Cortex-A9 server chip
+                    \end{itemize}
+                    \vspace{-4.5mm} {\sl (Python)}
+
+\section{PROJECTS}  Co-developed AI to play Leiserchess, a variant of Khet, for 
+                      tournament competition \\
+                    Designed ad-hoc networking protocol for first responders in
+                      emergency situations
+ 
+\section{SKILLS}    {\sl Programming Languages:} Python, Java, SQL, C,
+                      C\texttt{++} \\
+                    {\sl Markup Languages:} HTML, CSS, \LaTeX \\
+                    {\sl Operating Systems:} Linux, Windows
+ 
+ 
+\section{AWARDS}    Battlecode 2013, Sprint Tournament, 1st Place\\
+                    Recipient, MIT Eugene and Margaret McDermott Scholarship, 
+                    2010 -- 2014\\
+                    Eagle Scout, Troop 157, Boy Scouts of America, 2010
+
+\section{ACTIVITIES}
+                    Level 2 Magic: the Gathering Judge
+
+\end{resume}
+\end{document}
