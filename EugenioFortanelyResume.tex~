@@ -81,8 +81,6 @@
                          \item Designed, implemented, and completed a 
                            currently deployed internal tool for managing cached 
                            SQL tables
-                         \item Created Apache Server to host a tool utilizing 
-                           mod\_python module 
                     \end{itemize}
                     \vspace{-4.5mm} {\sl (Python, SQL)}
 
