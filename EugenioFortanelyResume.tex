@@ -5,6 +5,7 @@
 \setlength{\textwidth}{5.1in} % set width of text portion
 %\setlength{\topmargin}{-0.6in} % Start text higher on the page 
 
+
 \begin{document}
 
 % Center the name over the entire width of resume:
@@ -13,15 +14,10 @@
  \moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
 % address begins here
 % Again, the address lines must be centered over entire width of resume:
- \moveleft.5\hoffset\centerline{70 Pine Street, Apt.~5106, New York, NY 10005}
- \moveleft.5\hoffset\centerline{512.733.4704}
- \moveleft.5\hoffset\centerline{bobby.fortanely@gmail.com}
-
-
+ \moveleft.5\hoffset\centerline{70 Pine Street, Apt.~5106, New York, NY 10005 \textbullet ~512.733.4704 \textbullet ~eugenio@fortanely.com}
 \begin{resume}
-
 \section{EXPERIENCE} 
-                    {\sl{\bf Facebook} Senior Software Engineer, Machine
+                    {\sl{\bf Facebook} Staff Software Engineer, Machine
                   Learning} 
                     \hfill 11/2015 -- Present \\
                     {\sl (Python, Hive, Presto)}
@@ -30,10 +26,15 @@
                         \setlength{\topsep}{0pt}
                          \item Improved quality of Places Graph using machine
                            learning techniques
+                         \item Tech lead for team of 14 engineers
+                         \item Navigated cross-functional alignment and results through competing priorities
+                         \item Drove integration of Places Data with Facebook's smart assistant to
+                            answer local Q\&A on Portal and other devices
                          \item Responsible for attributes of pin, polygon,
                            Wi-Fi, and permanently closedness
-                         \item Led tech direction for deduplication, junk
-                           detection, hours, and curation
+                         \item Led technical direction for deduplication, junk
+                           detection, hours, curation, and \\ computer vision signal 
+                           extraction from both street-level and satellite imagery
                          \item Leveraged colossal datasets for idea generation
                            and execution
                          \item Evaluated external datasets for potential
@@ -42,6 +43,7 @@
                            place visit detection effort
                          \item Mentored others in machine learning best practices across
                            org and company
+                         \item Was force multiplier for improving documentation and onboarding efficiency
                     \end{itemize} 
 
 
@@ -49,32 +51,20 @@
                     \hfill 6/2014 -- 8/2014 \\
                     {\sl (Java)}
                     \hfill{\sl  Palo Alto, CA}
-                    \begin{itemize} \itemsep -2pt %reduce space between items
-                        \setlength{\topsep}{0pt}
-                         \item Augmented data processing pipeline with
-                           versioning for deployments
-                    \end{itemize} 
 
 
                     {\sl{\bf Google} Site Reliability Engineering Intern} 
                     \hfill 6/2013 -- 8/2013 \\
                     {\sl (Python, SQL)}
                     \hfill {\sl  New York, NY}
-                    \begin{itemize} \itemsep -2pt %reduce space between items
-                        \setlength{\topsep}{0pt}
-                         \item Created SQLite-based
-                           caching mechanism for an existing internal service
-                    \end{itemize} 
+
 
                     {\sl {\bf Akamai} 
                       Platform Infrastructure Engineering Intern} 
                     \hfill 6/2012 -- 8/2012 \\
                     {\sl (Python, SQL)}
                     \hfill {\sl Cambridge, MA}
-                    \begin{itemize} \itemsep -2pt %reduce space between items
-                         \item Launched internal tool for managing cached SQL
-                           tables
-                    \end{itemize}
+
 
 \section{EDUCATION} {\sl \bf Massachusetts Institute of Technology} 
                     \hfill Graduated 11/2015
@@ -85,7 +75,7 @@
                         \item {\sl Thesis}: TaleBlazer: Indoor Positioning
                         \item Added indoor positioning to
                           educational, location-based augmented reality games
-                          using iBeacons
+                          using Bluetooth Low Energy beacons
                         \item {\sl Coursework includes}:
                           Advanced Algorithms;
                           Advanced Data Structures;
@@ -112,8 +102,7 @@
                     \end{itemize}
 
 \section{SKILLS}    {\sl Programming Languages:} Python, HiveQL, PrestoSQL, Java, C,
-                      C\texttt{++} \\
-                    {\sl Markup Languages:} HTML, CSS, \LaTeX \\
+                      C\texttt{++}, \LaTeX \\
                     {\sl Operating Systems:} macOS, Linux, Windows
  
  
